@@ -1,0 +1,8 @@
+.container {
+  min-height: 100vh;
+  padding-top: 8px;
+}
+
+.inputStyle {
+  border-color: #00000054;
+}

@@ -1,0 +1,13 @@
+.modalPedido {
+  width: 90vw;
+  max-width: 90vw;
+}
+
+.toggleEdit {
+  display: flex;
+  align-items: center;
+}
+
+.toggleEdit button {
+  font-size: 1.8rem;
+}
